@@ -6,6 +6,8 @@ Sure! Here is a shorter version of the README with an image placeholder:
 
 A simple and visually appealing calculator built using HTML, CSS, and JavaScript.
 
+[Calculator Screenshot](Screenshot.png)
+
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
 - Clear button to reset the display
